@@ -7,3 +7,5 @@
 > python3 server_agent.py
 
 > python3 a2a_client_agent.py
+
+Это представляет собой развёртывание для разрботки и отладки
